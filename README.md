@@ -2,7 +2,7 @@
 
 A comprehensive analysis of putative neuropeptide precursors in the proteome database.								
 								
-To submit a query and download the necessary data, go to:					[NIH BLASTP Suite](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE=Proteins)https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE=Proteins			
+To submit a query and download the necessary data, go to:					[NIH BLASTP Suite](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE=Proteins)
 
 ![image](https://github.com/boyinthebigcity/AmideSearch/assets/94450891/a8991f11-17de-4f49-ba70-329c8000eaf4)
 
